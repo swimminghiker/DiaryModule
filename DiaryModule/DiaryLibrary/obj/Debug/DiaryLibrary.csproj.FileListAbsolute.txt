@@ -1,0 +1,6 @@
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\bin\Debug\DiaryLibrary.dll
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\bin\Debug\DiaryLibrary.pdb
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.csprojAssemblyReference.cache
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.dll
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.pdb

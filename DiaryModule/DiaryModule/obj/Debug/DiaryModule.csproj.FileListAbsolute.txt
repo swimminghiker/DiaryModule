@@ -1,0 +1,10 @@
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryModule.exe.config
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryModule.exe
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryModule.pdb
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryLibrary.dll
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryLibrary.pdb
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.csprojAssemblyReference.cache
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.csproj.CoreCompileInputs.cache
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.csproj.CopyComplete
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.exe
+C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.pdb
