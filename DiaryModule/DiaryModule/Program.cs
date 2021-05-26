@@ -26,11 +26,11 @@ namespace DiaryModule
                 var filePath = new SetOutput(specifiedDate);
                 string targetFileNameAndPath = filePath["DeskTop"];
 
-                var textFileOutput = new CreateOutput(new TextFileWriter());
-                var consoleOutput = new CreateOutput(new ConsoleWriter());
+                var textFileOutput = new DispatchOutput(new TextFileWriter());
+                var consoleOutput = new DispatchOutput(new ConsoleWriter());
 
-                Action<string, List<string>> sendToWrite = textFileOutput.WriteFile;
-                sendToWrite += consoleOutput.WriteFile;
+                Action<string, List<string>> sendToWrite = textFileOutput.Dispatch;
+                sendToWrite += consoleOutput.Dispatch;
                 sendToWrite(targetFileNameAndPath, contents);
             }
             catch (Exception ex)

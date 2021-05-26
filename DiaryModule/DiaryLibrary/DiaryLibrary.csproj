@@ -43,7 +43,7 @@
   <ItemGroup>
     <Compile Include="ConsoleWriter.cs" />
     <Compile Include="ContentMaker.cs" />
-    <Compile Include="CreateOutput.cs" />
+    <Compile Include="DispatchOutput.cs" />
     <Compile Include="GetInput.cs" />
     <Compile Include="IWriteAble.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

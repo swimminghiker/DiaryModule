@@ -13,7 +13,6 @@ namespace DiaryLibrary
             try
             {
                 SetOutput.DoesFileExits(targetFileNameAndPath);
-
                 var textWriter = new StreamWriter(targetFileNameAndPath);
                 foreach (var content in contents)
                     textWriter.WriteLine(content);

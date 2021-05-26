@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace DiaryLibrary
 {
-    public class CreateOutput
+    public class DispatchOutput
     {
         private readonly IWriteAble _writeAble;
-        public CreateOutput(IWriteAble writeAble)
+        public DispatchOutput(IWriteAble writeAble)
         {
             this._writeAble = writeAble;
         }
-
-        public void WriteFile(string targetFileNameAndPath, List<string> contents)
+        public void Dispatch(string targetFileNameAndPath, List<string> contents)
         {
             _writeAble.WriteContent(targetFileNameAndPath, contents);
         }
     }
 }
+
+
