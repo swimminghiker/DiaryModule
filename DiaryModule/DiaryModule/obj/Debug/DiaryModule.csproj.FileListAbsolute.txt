@@ -8,3 +8,14 @@ C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug
 C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.csproj.CopyComplete
 C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.exe
 C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.pdb
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryModule.exe.config
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryModule.exe
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryModule.pdb
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryLibrary.dll
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\bin\Debug\DiaryLibrary.pdb
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.csproj.AssemblyReference.cache
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.csproj.CoreCompileInputs.cache
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryMod.1F60AC23.Up2Date
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.exe
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.pdb
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryModule\obj\Debug\DiaryModule.exe.config

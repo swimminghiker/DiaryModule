@@ -4,3 +4,9 @@ C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debu
 C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.csproj.CoreCompileInputs.cache
 C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.dll
 C:\Users\thchen\OneDrive\GitHub\C#\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.pdb
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryLibrary\bin\Debug\DiaryLibrary.dll
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryLibrary\bin\Debug\DiaryLibrary.pdb
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.csproj.AssemblyReference.cache
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.dll
+C:\Users\theod\Source\Repos\DiaryModule\DiaryModule\DiaryLibrary\obj\Debug\DiaryLibrary.pdb
